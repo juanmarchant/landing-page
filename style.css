@@ -1,0 +1,175 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.btn {
+    border-radius: 0.6rem;
+    padding: 0.5rem 3rem;
+    width: 1rem;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.btn-blue {
+    background-color: #3882f6;
+    color: white;
+}
+
+.btn-white {
+    background-color: transparent;
+    color: white;
+    border: 3px solid white
+}
+
+.blue-background-color {
+    background-color: #3882f6;
+}
+
+.container-md {
+    width: 49rem;
+    padding: 1rem;
+    margin: auto;
+}
+
+.container-lg {
+    width: 60rem;
+    padding: 1rem;
+    margin: auto;
+}
+
+.container-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.items-flex {
+    flex: 1;
+}
+
+.items-no-shrink {
+    flex-shrink: 0;
+}
+
+.dark-background-color {
+    background-color: #1F2937;
+}
+
+
+.items a {
+    color: white;
+    text-decoration: none;
+}
+
+.img-box {
+    height: 13rem;
+    background-color: #6D747D;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.logo-text {
+    font-size: 1.5rem;
+    color: #F9FAFB;
+}
+
+.main-text {
+    font-size: 3rem;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.padding-top-25 {
+    padding-top: 2.5rem;
+}
+
+.padding-top-50 {
+    padding-top: 5rem;
+}
+
+.padding-bottom-25 {
+    padding-bottom: 2.5rem;
+}
+
+.padding-bottom-50 {
+    padding-bottom: 5rem;
+}
+
+
+.text-header-section {
+    font-size: 2.25rem;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-light {
+    font-size: 1.125rem;
+    color: #e5e7ebd0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.img-box-half {
+    height: 11rem;
+    border: 3px solid #3B82F6;
+    border-radius: 15px;
+    width: auto;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.quote-text {
+    font-size: 2.25rem;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+    text-align: justify;
+}
+
+.text-end {
+    text-align: end;
+}
+
+.gap {
+    border-radius: 15px;
+}
+
+.quote-author {
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.padding-left-50 {
+    padding-left: 5rem;
+}
+
+.padding-right-50 {
+    padding-right: 5rem;
+}
